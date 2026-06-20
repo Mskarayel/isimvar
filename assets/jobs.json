@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Geliştirici",
+    "company": "TechCo",
+    "location": "Uzaktan",
+    "type": "Tam Zamanlı",
+    "salary": "₺15K-20K",
+    "experience": "3+ Yıl",
+    "education": "Lisans",
+    "category": "code",
+    "about": "React ve modern web teknolojileri konusunda deneyimli bir frontend geliştirici arıyoruz. Ekibimizle birlikte kullanıcı dostu arayüzler geliştireceksiniz.",
+    "requirements": ["React / Vue.js bilgisi", "HTML, CSS, JavaScript", "Git versiyon kontrolü"]
+  },
+  {
+    "id": 2,
+    "title": "UI/UX Tasarımcı",
+    "company": "DesignHub",
+    "location": "Hibrit",
+    "type": "Tam Zamanlı",
+    "salary": "₺12K-18K",
+    "experience": "2+ Yıl",
+    "education": "Lisans",
+    "category": "design",
+    "about": "Kullanıcı deneyimini önceliklendiren, modern ve sade arayüzler tasarlayacak bir UI/UX tasarımcı arıyoruz. Figma ve prototipleme süreçlerine hâkim olmalısınız.",
+    "requirements": ["Figma / Adobe XD", "Prototipleme ve wireframe", "Kullanıcı araştırması"]
+  },
+  {
+    "id": 3,
+    "title": "Mobil Geliştirici",
+    "company": "AppStudio",
+    "location": "Ankara",
+    "type": "Tam Zamanlı",
+    "salary": "₺25K-30K",
+    "experience": "3+ Yıl",
+    "education": "Lisans",
+    "category": "mobile",
+    "about": "Flutter ile çapraz platform mobil uygulamalar geliştirecek bir geliştirici arıyoruz. App Store ve Play Store yayın süreçlerine aşina olmanız beklenir.",
+    "requirements": ["Flutter / Dart", "REST API entegrasyonu", "State management"]
+  },
+  {
+    "id": 4,
+    "title": "DevOps Mühendisi",
+    "company": "TechCo",
+    "location": "Uzaktan",
+    "type": "Tam Zamanlı",
+    "salary": "₺20K-30K",
+    "experience": "4+ Yıl",
+    "education": "Lisans",
+    "category": "devops",
+    "about": "CI/CD süreçlerini kuracak ve bulut altyapısını yönetecek bir DevOps mühendisi arıyoruz. Docker ve Kubernetes deneyimi önemlidir.",
+    "requirements": ["Docker / Kubernetes", "CI/CD pipeline", "AWS / Azure"]
+  },
+  {
+    "id": 5,
+    "title": "Veri Analisti",
+    "company": "DataCorp",
+    "location": "İstanbul",
+    "type": "Tam Zamanlı",
+    "salary": "₺18K-24K",
+    "experience": "2+ Yıl",
+    "education": "Lisans",
+    "category": "data",
+    "about": "İş verilerini analiz ederek anlamlı içgörüler üretecek bir veri analisti arıyoruz. SQL ve veri görselleştirme araçlarına hâkim olmalısınız.",
+    "requirements": ["SQL ve Python", "Power BI / Tableau", "İstatistik bilgisi"]
+  },
+  {
+    "id": 6,
+    "title": "İçerik Yazarı",
+    "company": "MediaX",
+    "location": "Uzaktan",
+    "type": "Yarı Zamanlı",
+    "salary": "₺10K-14K",
+    "experience": "1+ Yıl",
+    "education": "Lisans",
+    "category": "content",
+    "about": "Marka sesini yansıtan, SEO uyumlu içerikler üretecek bir içerik yazarı arıyoruz. Yaratıcı ve araştırma odaklı bir yaklaşım bekliyoruz.",
+    "requirements": ["SEO bilgisi", "Yaratıcı yazarlık", "Araştırma becerisi"]
+  }
+]
